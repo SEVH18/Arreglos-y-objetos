@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.propiedades-alquiler{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: space-between;
+    margin: 15px;
+
+}
+.container{
+    width: 10em;
+    height: 15em;
+}
+
+.cartas{
+    width: 30%;
+    height: 40%;
+    border: 1px solid red;
+}
+
+.cartas img{
+    width: 100%;
+    height:20em;
+}
+
+h1{
+    text-align: center;
+}
